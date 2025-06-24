@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4269ed900d318f46bb805e26443421f, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  levels:
+  - Level: 1
+    MissionType: 0
+    TargetScore: 0
+    Collection:
+    - KeoCollection: 0
+      Count: 10
+    - KeoCollection: 0
+      Count: 15
+    TimePlay: 120
+  - Level: 2
+    MissionType: 1
+    TargetScore: 2500
+    Collection: []
+    TimePlay: 90
+  - Level: 3
+    MissionType: 0
+    TargetScore: 0
+    Collection:
+    - KeoCollection: 0
+      Count: 20
+    - KeoCollection: 0
+      Count: 25
+    TimePlay: 150
+  - Level: 4
+    MissionType: 1
+    TargetScore: 5000
+    Collection: []
+    TimePlay: 60
+  - Level: 5
+    MissionType: 0
+    TargetScore: 0
+    Collection:
+    - KeoCollection: 0
+      Count: 30
+    - KeoCollection: 0
+      Count: 20
+    TimePlay: 180
+  - Level: 6
+    MissionType: 1
+    TargetScore: 7500
+    Collection: []
+    TimePlay: 120
+  - Level: 7
+    MissionType: 0
+    TargetScore: 0
+    Collection:
+    - KeoCollection: 0
+      Count: 35
+    - KeoCollection: 0
+      Count: 40
+    TimePlay: 200
+  - Level: 8
+    MissionType: 1
+    TargetScore: 10000
+    Collection: []
+    TimePlay: 90
+  - Level: 9
+    MissionType: 0
+    TargetScore: 0
+    Collection:
+    - KeoCollection: 0
+      Count: 45
+    - KeoCollection: 0
+      Count: 50
+    TimePlay: 240
+  - Level: 10
+    MissionType: 1
+    TargetScore: 15000
+    Collection: []
+    TimePlay: 150
+  - Level: 11
+    MissionType: 0
+    TargetScore: 0
+    Collection:
+    - KeoCollection: 0
+      Count: 55
+    - KeoCollection: 0
+      Count: 60
+    TimePlay: 180
+  - Level: 12
+    MissionType: 1
+    TargetScore: 20000
+    Collection: []
+    TimePlay: 120
+  - Level: 13
+    MissionType: 0
+    TargetScore: 0
+    Collection:
+    - KeoCollection: 0
+      Count: 70
+    TimePlay: 200
+  - Level: 14
+    MissionType: 1
+    TargetScore: 25000
+    Collection: []
+    TimePlay: 100
+  - Level: 15
+    MissionType: 0
+    TargetScore: 0
+    Collection:
+    - KeoCollection: 0
+      Count: 80
+    - KeoCollection: 0
+      Count: 75
+    TimePlay: 300

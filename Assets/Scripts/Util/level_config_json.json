@@ -1,0 +1,177 @@
+{
+  "levels": [
+    {
+      "Level": 1,
+      "MissionType": "COLLECTION",
+      "TargetScore": 0,
+      "Collection": [
+        {
+          "KeoCollection": "DAU",
+          "Count": 10
+        },
+        {
+          "KeoCollection": "DUA",
+          "Count": 15
+        }
+      ],
+      "TimePlay": 120
+    },
+    {
+      "Level": 2,
+      "MissionType": "SCORE",
+      "TargetScore": 2500,
+      "Collection": [],
+      "TimePlay": 90
+    },
+    {
+      "Level": 3,
+      "MissionType": "COLLECTION",
+      "TargetScore": 0,
+      "Collection": [
+        {
+          "KeoCollection": "OT",
+          "Count": 20
+        },
+        {
+          "KeoCollection": "TAO",
+          "Count": 25
+        }
+      ],
+      "TimePlay": 150
+    },
+    {
+      "Level": 4,
+      "MissionType": "SCORE",
+      "TargetScore": 5000,
+      "Collection": [],
+      "TimePlay": 60
+    },
+    {
+      "Level": 5,
+      "MissionType": "COLLECTION",
+      "TargetScore": 0,
+      "Collection": [
+        {
+          "KeoCollection": "HANH",
+          "Count": 30
+        },
+        {
+          "KeoCollection": "NGO",
+          "Count": 20
+        }
+      ],
+      "TimePlay": 180
+    },
+    {
+      "Level": 6,
+      "MissionType": "SCORE",
+      "TargetScore": 7500,
+      "Collection": [],
+      "TimePlay": 120
+    },
+    {
+      "Level": 7,
+      "MissionType": "COLLECTION",
+      "TargetScore": 0,
+      "Collection": [
+        {
+          "KeoCollection": "DAU",
+          "Count": 35
+        },
+        {
+          "KeoCollection": "OT",
+          "Count": 40
+        }
+      ],
+      "TimePlay": 200
+    },
+    {
+      "Level": 8,
+      "MissionType": "SCORE",
+      "TargetScore": 10000,
+      "Collection": [],
+      "TimePlay": 90
+    },
+    {
+      "Level": 9,
+      "MissionType": "COLLECTION",
+      "TargetScore": 0,
+      "Collection": [
+        {
+          "KeoCollection": "TAO",
+          "Count": 45
+        },
+        {
+          "KeoCollection": "HANH",
+          "Count": 50
+        }
+      ],
+      "TimePlay": 240
+    },
+    {
+      "Level": 10,
+      "MissionType": "SCORE",
+      "TargetScore": 15000,
+      "Collection": [],
+      "TimePlay": 150
+    },
+    {
+      "Level": 11,
+      "MissionType": "COLLECTION",
+      "TargetScore": 0,
+      "Collection": [
+        {
+          "KeoCollection": "NGO",
+          "Count": 55
+        },
+        {
+          "KeoCollection": "DUA",
+          "Count": 60
+        }
+      ],
+      "TimePlay": 180
+    },
+    {
+      "Level": 12,
+      "MissionType": "SCORE",
+      "TargetScore": 20000,
+      "Collection": [],
+      "TimePlay": 120
+    },
+    {
+      "Level": 13,
+      "MissionType": "COLLECTION",
+      "TargetScore": 0,
+      "Collection": [
+        {
+          "KeoCollection": "DAU",
+          "Count": 70
+        }
+      ],
+      "TimePlay": 200
+    },
+    {
+      "Level": 14,
+      "MissionType": "SCORE",
+      "TargetScore": 25000,
+      "Collection": [],
+      "TimePlay": 100
+    },
+    {
+      "Level": 15,
+      "MissionType": "COLLECTION",
+      "TargetScore": 0,
+      "Collection": [
+        {
+          "KeoCollection": "TAO",
+          "Count": 80
+        },
+        {
+          "KeoCollection": "OT",
+          "Count": 75
+        }
+      ],
+      "TimePlay": 300
+    }
+  ]
+}
